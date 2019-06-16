@@ -4,7 +4,7 @@
 
 ## Youtube Link for the application
 
-	Youtube [Link](https://www.youtube.com/watch?v=pIJZBe2OugU)
+	https://www.youtube.com/watch?v=pIJZBe2OugU
 
 ## Installation for Flutter
 
