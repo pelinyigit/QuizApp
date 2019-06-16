@@ -4,7 +4,7 @@
 
 ## Youtube Link for the application
 
-	- https://youtu.be/pIJZBe2OugU
+	[Youtube Link](https://www.youtube.com/watch?v=pIJZBe2OugU)
 
 ## Installation for Flutter
 
@@ -64,5 +64,3 @@
 		"flutter run"
 
 	7) If it all works without a problem, than you are good to go with QuizApp. Have Fun.
-
--YOUTUBE LINK FOR THE GAME : https://www.youtube.com/watch?v=pIJZBe2OugU
